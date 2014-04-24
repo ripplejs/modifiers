@@ -1,5 +1,6 @@
 {
   "name": "modifiers",
+  "version": "0.1.0",
   "scripts": ["index.js"],
   "development": {
     "ripplejs/ripple": "~0.3.5",
