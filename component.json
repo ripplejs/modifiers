@@ -1,0 +1,8 @@
+{
+  "name": "modifiers",
+  "scripts": ["index.js"],
+  "development": {
+    "ripplejs/ripple": "~0.3.5",
+    "component/assert": "~0.3.0"
+  }
+}
